@@ -23,6 +23,6 @@ let myPromise = new Promise( (resolve, reject) => {
 
 myPromise.then( (message) => {
     console.log( 'successful');
-}) .catch(( message ) => {
+}) .catch( (message) => {
     console.log( 'failed' );
 })
