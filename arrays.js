@@ -23,3 +23,8 @@
   clothes.pop();
   clothes.push('shoes');
   console.log(clothes);
+
+
+
+
+  
